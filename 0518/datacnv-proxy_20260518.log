@@ -1,0 +1,1335 @@
+2026-05-18 00:08:55.113 D: Socket HostLookup
+2026-05-18 00:08:55.113 D: Socket Connecting
+2026-05-18 00:08:55.114 D: Socket Connected
+2026-05-18 00:08:55.114 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:08:55.114 V: body: MesPIOnotifyPort
+2026-05-18 00:08:55.376 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:08:55.376 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:08:55.376 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:09:01.390 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:12:26.678 D: Socket HostLookup
+2026-05-18 00:12:26.678 D: Socket Connecting
+2026-05-18 00:12:26.680 D: Socket Connected
+2026-05-18 00:12:26.680 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:12:26.680 V: body: MesPIOnotifyPort
+2026-05-18 00:12:26.949 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:12:26.949 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:12:26.949 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:12:32.956 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:15:57.500 D: Socket HostLookup
+2026-05-18 00:15:57.500 D: Socket Connecting
+2026-05-18 00:15:57.508 D: Socket Connected
+2026-05-18 00:15:57.508 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:15:57.508 V: body: MesPIOnotifyPort
+2026-05-18 00:15:57.784 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:15:57.784 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:15:57.784 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:16:03.786 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:19:34.698 D: Socket HostLookup
+2026-05-18 00:19:34.698 D: Socket Connecting
+2026-05-18 00:19:34.701 D: Socket Connected
+2026-05-18 00:19:34.701 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:19:34.701 V: body: MesPIOnotifyPort
+2026-05-18 00:19:35.013 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:19:35.013 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:19:35.013 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:19:41.021 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:24:18.310 D: Socket HostLookup
+2026-05-18 00:24:18.310 D: Socket Connecting
+2026-05-18 00:24:18.312 D: Socket Connected
+2026-05-18 00:24:18.312 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:24:18.312 V: body: MesPIOnotifyPort
+2026-05-18 00:24:19.423 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:24:19.423 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:24:19.423 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:24:25.425 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:34:33.728 D: Socket HostLookup
+2026-05-18 00:34:33.728 D: Socket Connecting
+2026-05-18 00:34:33.730 D: Socket Connected
+2026-05-18 00:34:33.730 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:34:33.730 V: body: MesPIOnotifyPort
+2026-05-18 00:34:34.003 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:34:34.003 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:34:34.003 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:38:13.100 D: Socket HostLookup
+2026-05-18 00:38:13.100 D: Socket Connecting
+2026-05-18 00:38:13.101 D: Socket Connected
+2026-05-18 00:38:13.101 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:38:13.101 V: body: MesPIOnotifyPort
+2026-05-18 00:38:13.397 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:38:13.397 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:38:13.397 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:38:19.410 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:41:47.729 D: Socket HostLookup
+2026-05-18 00:41:47.729 D: Socket Connecting
+2026-05-18 00:41:47.732 D: Socket Connected
+2026-05-18 00:41:47.732 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:41:47.732 V: body: MesPIOnotifyPort
+2026-05-18 00:41:48.019 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:41:48.019 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:41:48.019 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:41:54.015 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:44:29.327 D: Socket HostLookup
+2026-05-18 00:44:29.327 D: Socket Connecting
+2026-05-18 00:44:29.329 D: Socket Connected
+2026-05-18 00:44:29.329 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:44:29.329 V: body: MesPIOnotifyPort
+2026-05-18 00:44:29.557 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:44:29.557 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:44:29.557 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:47:08.537 D: Socket HostLookup
+2026-05-18 00:47:08.537 D: Socket Connecting
+2026-05-18 00:47:08.540 D: Socket Connected
+2026-05-18 00:47:08.540 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:47:08.540 V: body: MesPIOnotifyPort
+2026-05-18 00:47:08.768 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:47:08.768 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:47:08.768 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:47:14.772 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:49:48.844 D: Socket HostLookup
+2026-05-18 00:49:48.844 D: Socket Connecting
+2026-05-18 00:49:48.846 D: Socket Connected
+2026-05-18 00:49:48.846 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:49:48.846 V: body: MesPIOnotifyPort
+2026-05-18 00:49:49.066 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:49:49.066 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:49:49.066 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:52:27.095 D: Socket HostLookup
+2026-05-18 00:52:27.095 D: Socket Connecting
+2026-05-18 00:52:27.100 D: Socket Connected
+2026-05-18 00:52:27.100 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:52:27.100 V: body: MesPIOnotifyPort
+2026-05-18 00:52:27.329 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:52:27.329 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:52:27.329 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:52:33.323 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 00:58:33.386 D: Socket HostLookup
+2026-05-18 00:58:33.387 D: Socket Connecting
+2026-05-18 00:58:33.388 D: Socket Connected
+2026-05-18 00:58:33.388 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 00:58:33.388 V: body: MesPIOnotifyPort
+2026-05-18 00:58:33.689 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 00:58:33.689 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:58:33.689 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:58:39.692 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:02:16.146 D: Socket HostLookup
+2026-05-18 01:02:16.146 D: Socket Connecting
+2026-05-18 01:02:16.149 D: Socket Connected
+2026-05-18 01:02:16.149 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:02:16.150 V: body: MesPIOnotifyPort
+2026-05-18 01:02:16.406 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:02:16.406 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:02:16.406 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:02:22.417 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:05:53.151 D: Socket HostLookup
+2026-05-18 01:05:53.151 D: Socket Connecting
+2026-05-18 01:05:53.152 D: Socket Connected
+2026-05-18 01:05:53.152 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:05:53.152 V: body: MesPIOnotifyPort
+2026-05-18 01:05:53.407 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:05:53.407 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:05:53.407 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:05:59.416 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:09:35.709 D: Socket HostLookup
+2026-05-18 01:09:35.709 D: Socket Connecting
+2026-05-18 01:09:35.710 D: Socket Connected
+2026-05-18 01:09:35.710 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:09:35.710 V: body: MesPIOnotifyPort
+2026-05-18 01:09:35.968 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:09:35.968 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:09:35.968 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:13:21.400 D: Socket HostLookup
+2026-05-18 01:13:21.400 D: Socket Connecting
+2026-05-18 01:13:21.401 D: Socket Connected
+2026-05-18 01:13:21.401 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:13:21.401 V: body: MesPIOnotifyPort
+2026-05-18 01:13:21.640 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:13:21.640 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:13:21.640 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:13:27.653 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:16:55.602 D: Socket HostLookup
+2026-05-18 01:16:55.602 D: Socket Connecting
+2026-05-18 01:16:55.606 D: Socket Connected
+2026-05-18 01:16:55.606 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:16:55.606 V: body: MesPIOnotifyPort
+2026-05-18 01:16:55.853 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:16:55.853 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:16:55.853 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:17:01.860 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:20:35.680 D: Socket HostLookup
+2026-05-18 01:20:35.680 D: Socket Connecting
+2026-05-18 01:20:35.682 D: Socket Connected
+2026-05-18 01:20:35.682 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:20:35.682 V: body: MesPIOnotifyPort
+2026-05-18 01:20:35.926 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:20:35.926 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:20:35.926 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:20:41.931 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:24:14.842 D: Socket HostLookup
+2026-05-18 01:24:14.842 D: Socket Connecting
+2026-05-18 01:24:14.858 D: Socket Connected
+2026-05-18 01:24:14.859 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:24:14.859 V: body: MesPIOnotifyPort
+2026-05-18 01:24:15.110 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:24:15.110 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:24:15.110 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:24:21.108 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:27:57.915 D: Socket HostLookup
+2026-05-18 01:27:57.915 D: Socket Connecting
+2026-05-18 01:27:57.916 D: Socket Connected
+2026-05-18 01:27:57.916 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:27:57.916 V: body: MesPIOnotifyPort
+2026-05-18 01:27:58.156 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:27:58.156 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:27:58.157 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:28:04.161 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:31:49.214 D: Socket HostLookup
+2026-05-18 01:31:49.214 D: Socket Connecting
+2026-05-18 01:31:49.215 D: Socket Connected
+2026-05-18 01:31:49.215 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:31:49.215 V: body: MesPIOnotifyPort
+2026-05-18 01:31:49.641 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:31:49.641 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:31:49.642 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:31:55.646 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:35:37.560 D: Socket HostLookup
+2026-05-18 01:35:37.560 D: Socket Connecting
+2026-05-18 01:35:37.563 D: Socket Connected
+2026-05-18 01:35:37.563 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:35:37.563 V: body: MesPIOnotifyPort
+2026-05-18 01:35:37.869 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:35:37.869 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:35:37.869 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:35:43.876 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:45:59.715 D: Socket HostLookup
+2026-05-18 01:45:59.715 D: Socket Connecting
+2026-05-18 01:45:59.716 D: Socket Connected
+2026-05-18 01:45:59.716 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:45:59.716 V: body: MesPIOnotifyPort
+2026-05-18 01:46:00.324 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:46:00.324 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:46:00.324 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:50:54.149 D: Socket HostLookup
+2026-05-18 01:50:54.149 D: Socket Connecting
+2026-05-18 01:50:54.161 D: Socket Connected
+2026-05-18 01:50:54.161 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:50:54.161 V: body: MesPIOnotifyPort
+2026-05-18 01:50:54.883 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:50:54.883 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:50:54.883 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:51:00.882 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 01:55:36.947 D: Socket HostLookup
+2026-05-18 01:55:36.947 D: Socket Connecting
+2026-05-18 01:55:36.948 D: Socket Connected
+2026-05-18 01:55:36.948 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 01:55:36.948 V: body: MesPIOnotifyPort
+2026-05-18 01:55:37.523 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 01:55:37.523 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:55:37.523 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:55:43.524 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:00:26.225 D: Socket HostLookup
+2026-05-18 02:00:26.225 D: Socket Connecting
+2026-05-18 02:00:26.228 D: Socket Connected
+2026-05-18 02:00:26.228 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:00:26.228 V: body: MesPIOnotifyPort
+2026-05-18 02:00:26.868 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:00:26.868 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:00:26.868 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:00:32.876 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:05:15.511 D: Socket HostLookup
+2026-05-18 02:05:15.511 D: Socket Connecting
+2026-05-18 02:05:15.512 D: Socket Connected
+2026-05-18 02:05:15.512 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:05:15.512 V: body: MesPIOnotifyPort
+2026-05-18 02:05:16.151 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:05:16.151 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:05:16.151 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:05:22.156 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:08:44.439 D: Socket HostLookup
+2026-05-18 02:08:44.439 D: Socket Connecting
+2026-05-18 02:08:44.440 D: Socket Connected
+2026-05-18 02:08:44.440 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:08:44.440 V: body: MesPIOnotifyPort
+2026-05-18 02:08:44.894 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:08:44.894 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:08:44.894 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:08:50.895 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:12:12.346 D: Socket HostLookup
+2026-05-18 02:12:12.346 D: Socket Connecting
+2026-05-18 02:12:12.358 D: Socket Connected
+2026-05-18 02:12:12.358 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:12:12.358 V: body: MesPIOnotifyPort
+2026-05-18 02:12:12.873 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:12:12.873 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:12:12.873 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:15:44.665 D: Socket HostLookup
+2026-05-18 02:15:44.665 D: Socket Connecting
+2026-05-18 02:15:44.667 D: Socket Connected
+2026-05-18 02:15:44.667 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:15:44.667 V: body: MesPIOnotifyPort
+2026-05-18 02:15:46.368 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:15:46.368 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:15:46.368 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:15:52.382 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:19:14.612 D: Socket HostLookup
+2026-05-18 02:19:14.612 D: Socket Connecting
+2026-05-18 02:19:14.613 D: Socket Connected
+2026-05-18 02:19:14.613 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:19:14.613 V: body: MesPIOnotifyPort
+2026-05-18 02:19:15.532 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:19:15.532 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:19:15.532 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:19:21.547 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:22:41.419 D: Socket HostLookup
+2026-05-18 02:22:41.419 D: Socket Connecting
+2026-05-18 02:22:41.420 D: Socket Connected
+2026-05-18 02:22:41.420 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:22:41.420 V: body: MesPIOnotifyPort
+2026-05-18 02:22:41.955 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:22:41.955 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:22:41.955 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:22:47.968 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:26:09.186 D: Socket HostLookup
+2026-05-18 02:26:09.186 D: Socket Connecting
+2026-05-18 02:26:09.187 D: Socket Connected
+2026-05-18 02:26:09.187 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:26:09.187 V: body: MesPIOnotifyPort
+2026-05-18 02:26:09.447 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:26:09.447 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:26:09.447 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:26:15.450 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:29:44.350 D: Socket HostLookup
+2026-05-18 02:29:44.350 D: Socket Connecting
+2026-05-18 02:29:44.351 D: Socket Connected
+2026-05-18 02:29:44.351 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:29:44.351 V: body: MesPIOnotifyPort
+2026-05-18 02:29:44.646 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:29:44.646 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:29:44.646 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:29:50.651 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:33:17.590 D: Socket HostLookup
+2026-05-18 02:33:17.590 D: Socket Connecting
+2026-05-18 02:33:17.591 D: Socket Connected
+2026-05-18 02:33:17.591 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:33:17.591 V: body: MesPIOnotifyPort
+2026-05-18 02:33:17.857 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:33:17.857 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:33:17.857 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:33:23.868 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:36:43.917 D: Socket HostLookup
+2026-05-18 02:36:43.917 D: Socket Connecting
+2026-05-18 02:36:43.919 D: Socket Connected
+2026-05-18 02:36:43.919 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:36:43.919 V: body: MesPIOnotifyPort
+2026-05-18 02:36:44.210 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:36:44.210 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:36:44.210 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:36:50.219 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:40:19.466 D: Socket HostLookup
+2026-05-18 02:40:19.466 D: Socket Connecting
+2026-05-18 02:40:19.469 D: Socket Connected
+2026-05-18 02:40:19.469 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:40:19.469 V: body: MesPIOnotifyPort
+2026-05-18 02:40:19.771 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:40:19.771 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:40:19.771 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:40:25.773 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:44:02.495 D: Socket HostLookup
+2026-05-18 02:44:02.495 D: Socket Connecting
+2026-05-18 02:44:02.497 D: Socket Connected
+2026-05-18 02:44:02.497 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:44:02.497 V: body: MesPIOnotifyPort
+2026-05-18 02:44:02.755 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:44:02.755 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:44:02.755 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:47:45.999 D: Socket HostLookup
+2026-05-18 02:47:45.999 D: Socket Connecting
+2026-05-18 02:47:46.001 D: Socket Connected
+2026-05-18 02:47:46.001 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:47:46.001 V: body: MesPIOnotifyPort
+2026-05-18 02:47:46.263 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:47:46.263 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:47:46.263 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:47:52.267 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:51:33.071 D: Socket HostLookup
+2026-05-18 02:51:33.071 D: Socket Connecting
+2026-05-18 02:51:33.072 D: Socket Connected
+2026-05-18 02:51:33.072 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:51:33.072 V: body: MesPIOnotifyPort
+2026-05-18 02:51:33.327 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:51:33.327 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:51:33.327 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:51:39.325 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 02:56:17.696 D: Socket HostLookup
+2026-05-18 02:56:17.696 D: Socket Connecting
+2026-05-18 02:56:17.697 D: Socket Connected
+2026-05-18 02:56:17.697 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 02:56:17.697 V: body: MesPIOnotifyPort
+2026-05-18 02:56:18.395 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 02:56:18.395 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:56:18.395 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:56:24.407 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:08:05.777 D: Socket HostLookup
+2026-05-18 03:08:05.777 D: Socket Connecting
+2026-05-18 03:08:05.778 D: Socket Connected
+2026-05-18 03:08:05.778 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:08:05.778 V: body: MesPIOnotifyPort
+2026-05-18 03:08:06.050 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:08:06.050 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:08:06.050 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:08:12.052 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:11:39.807 D: Socket HostLookup
+2026-05-18 03:11:39.807 D: Socket Connecting
+2026-05-18 03:11:39.808 D: Socket Connected
+2026-05-18 03:11:39.808 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:11:39.808 V: body: MesPIOnotifyPort
+2026-05-18 03:11:40.092 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:11:40.092 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:11:40.092 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:11:46.105 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:15:22.118 D: Socket HostLookup
+2026-05-18 03:15:22.118 D: Socket Connecting
+2026-05-18 03:15:22.119 D: Socket Connected
+2026-05-18 03:15:22.119 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:15:22.119 V: body: MesPIOnotifyPort
+2026-05-18 03:15:22.417 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:15:22.417 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:15:22.417 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:15:28.418 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:18:58.733 D: Socket HostLookup
+2026-05-18 03:18:58.733 D: Socket Connecting
+2026-05-18 03:18:58.734 D: Socket Connected
+2026-05-18 03:18:58.735 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:18:58.735 V: body: MesPIOnotifyPort
+2026-05-18 03:18:59.064 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:18:59.064 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:18:59.064 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:19:05.073 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:22:31.332 D: Socket HostLookup
+2026-05-18 03:22:31.332 D: Socket Connecting
+2026-05-18 03:22:31.336 D: Socket Connected
+2026-05-18 03:22:31.336 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:22:31.336 V: body: MesPIOnotifyPort
+2026-05-18 03:22:31.597 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:22:31.597 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:22:31.597 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:32:18.060 D: Socket HostLookup
+2026-05-18 03:32:18.060 D: Socket Connecting
+2026-05-18 03:32:18.061 D: Socket Connected
+2026-05-18 03:32:18.061 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:32:18.061 V: body: MesPIOnotifyPort
+2026-05-18 03:32:18.302 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:32:18.302 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:32:18.302 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:32:24.313 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:34:54.461 D: Socket HostLookup
+2026-05-18 03:34:54.461 D: Socket Connecting
+2026-05-18 03:34:54.463 D: Socket Connected
+2026-05-18 03:34:54.464 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:34:54.464 V: body: MesPIOnotifyPort
+2026-05-18 03:34:54.692 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:34:54.692 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:34:54.692 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:35:00.692 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:37:37.680 D: Socket HostLookup
+2026-05-18 03:37:37.680 D: Socket Connecting
+2026-05-18 03:37:37.681 D: Socket Connected
+2026-05-18 03:37:37.681 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:37:37.681 V: body: MesPIOnotifyPort
+2026-05-18 03:37:37.927 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:37:37.927 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:37:37.927 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:37:43.930 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:40:15.580 D: Socket HostLookup
+2026-05-18 03:40:15.580 D: Socket Connecting
+2026-05-18 03:40:15.581 D: Socket Connected
+2026-05-18 03:40:15.581 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:40:15.581 V: body: MesPIOnotifyPort
+2026-05-18 03:40:15.927 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:40:15.927 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:40:15.927 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:40:21.930 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:44:45.371 D: Socket HostLookup
+2026-05-18 03:44:45.371 D: Socket Connecting
+2026-05-18 03:44:45.372 D: Socket Connected
+2026-05-18 03:44:45.372 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:44:45.372 V: body: MesPIOnotifyPort
+2026-05-18 03:44:45.913 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:44:45.913 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:44:45.913 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:44:51.917 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:48:17.227 D: Socket HostLookup
+2026-05-18 03:48:17.227 D: Socket Connecting
+2026-05-18 03:48:17.229 D: Socket Connected
+2026-05-18 03:48:17.229 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:48:17.229 V: body: MesPIOnotifyPort
+2026-05-18 03:48:17.510 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:48:17.510 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:48:17.510 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:48:23.518 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:52:20.073 D: Socket HostLookup
+2026-05-18 03:52:20.073 D: Socket Connecting
+2026-05-18 03:52:20.075 D: Socket Connected
+2026-05-18 03:52:20.075 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:52:20.075 V: body: MesPIOnotifyPort
+2026-05-18 03:52:20.462 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:52:20.462 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:52:20.462 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:52:26.464 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 03:56:03.639 D: Socket HostLookup
+2026-05-18 03:56:03.639 D: Socket Connecting
+2026-05-18 03:56:03.651 D: Socket Connected
+2026-05-18 03:56:03.651 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:56:03.651 V: body: MesPIOnotifyPort
+2026-05-18 03:56:04.021 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:56:04.021 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:56:04.021 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:59:39.825 D: Socket HostLookup
+2026-05-18 03:59:39.825 D: Socket Connecting
+2026-05-18 03:59:39.827 D: Socket Connected
+2026-05-18 03:59:39.827 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 03:59:39.827 V: body: MesPIOnotifyPort
+2026-05-18 03:59:40.120 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 03:59:40.120 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:59:40.120 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:59:46.129 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:03:11.493 D: Socket HostLookup
+2026-05-18 04:03:11.493 D: Socket Connecting
+2026-05-18 04:03:11.494 D: Socket Connected
+2026-05-18 04:03:11.494 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:03:11.494 V: body: MesPIOnotifyPort
+2026-05-18 04:03:11.762 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:03:11.762 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:03:11.762 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:03:17.761 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:06:45.009 D: Socket HostLookup
+2026-05-18 04:06:45.009 D: Socket Connecting
+2026-05-18 04:06:45.010 D: Socket Connected
+2026-05-18 04:06:45.010 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:06:45.010 V: body: MesPIOnotifyPort
+2026-05-18 04:06:45.261 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:06:45.261 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:06:45.261 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:10:17.476 D: Socket HostLookup
+2026-05-18 04:10:17.476 D: Socket Connecting
+2026-05-18 04:10:17.485 D: Socket Connected
+2026-05-18 04:10:17.485 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:10:17.485 V: body: MesPIOnotifyPort
+2026-05-18 04:10:17.774 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:10:17.774 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:10:17.774 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:10:23.784 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:14:03.073 D: Socket HostLookup
+2026-05-18 04:14:03.073 D: Socket Connecting
+2026-05-18 04:14:03.074 D: Socket Connected
+2026-05-18 04:14:03.074 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:14:03.074 V: body: MesPIOnotifyPort
+2026-05-18 04:14:03.387 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:14:03.387 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:14:03.387 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:14:09.393 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:17:38.047 D: Socket HostLookup
+2026-05-18 04:17:38.047 D: Socket Connecting
+2026-05-18 04:17:38.049 D: Socket Connected
+2026-05-18 04:17:38.049 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:17:38.049 V: body: MesPIOnotifyPort
+2026-05-18 04:17:38.323 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:17:38.323 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:17:38.323 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:17:44.328 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:21:55.145 D: Socket HostLookup
+2026-05-18 04:21:55.145 D: Socket Connecting
+2026-05-18 04:21:55.148 D: Socket Connected
+2026-05-18 04:21:55.148 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:21:55.148 V: body: MesPIOnotifyPort
+2026-05-18 04:21:55.697 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:21:55.697 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:21:55.697 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:22:01.709 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:25:41.637 D: Socket HostLookup
+2026-05-18 04:25:41.637 D: Socket Connecting
+2026-05-18 04:25:41.648 D: Socket Connected
+2026-05-18 04:25:41.648 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:25:41.648 V: body: MesPIOnotifyPort
+2026-05-18 04:25:41.997 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:25:41.997 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:25:41.998 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:25:47.998 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:30:16.064 D: Socket HostLookup
+2026-05-18 04:30:16.064 D: Socket Connecting
+2026-05-18 04:30:16.066 D: Socket Connected
+2026-05-18 04:30:16.066 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:30:16.066 V: body: MesPIOnotifyPort
+2026-05-18 04:30:16.880 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:30:16.880 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:30:16.880 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:33:46.422 D: Socket HostLookup
+2026-05-18 04:33:46.422 D: Socket Connecting
+2026-05-18 04:33:46.424 D: Socket Connected
+2026-05-18 04:33:46.424 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:33:46.424 V: body: MesPIOnotifyPort
+2026-05-18 04:33:46.690 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:33:46.690 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:33:46.690 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:33:52.696 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:37:24.152 D: Socket HostLookup
+2026-05-18 04:37:24.152 D: Socket Connecting
+2026-05-18 04:37:24.155 D: Socket Connected
+2026-05-18 04:37:24.155 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:37:24.155 V: body: MesPIOnotifyPort
+2026-05-18 04:37:24.420 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:37:24.421 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:37:24.421 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:37:30.426 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:40:52.629 D: Socket HostLookup
+2026-05-18 04:40:52.629 D: Socket Connecting
+2026-05-18 04:40:52.630 D: Socket Connected
+2026-05-18 04:40:52.630 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:40:52.630 V: body: MesPIOnotifyPort
+2026-05-18 04:40:52.906 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:40:52.906 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:40:52.906 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:40:58.918 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 04:44:32.419 D: Socket HostLookup
+2026-05-18 04:44:32.419 D: Socket Connecting
+2026-05-18 04:44:32.420 D: Socket Connected
+2026-05-18 04:44:32.420 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:44:32.420 V: body: MesPIOnotifyPort
+2026-05-18 04:44:32.716 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:44:32.716 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:44:32.716 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:48:08.889 D: Socket HostLookup
+2026-05-18 04:48:08.889 D: Socket Connecting
+2026-05-18 04:48:08.890 D: Socket Connected
+2026-05-18 04:48:08.890 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 04:48:08.890 V: body: MesPIOnotifyPort
+2026-05-18 04:48:09.162 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 04:48:09.162 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:48:09.162 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:08:26.341 D: Socket HostLookup
+2026-05-18 05:08:26.341 D: Socket Connecting
+2026-05-18 05:08:26.342 D: Socket Connected
+2026-05-18 05:08:26.342 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:08:26.342 V: body: MesPIOnotifyPort
+2026-05-18 05:08:26.596 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:08:26.596 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:08:26.596 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:12:04.541 D: Socket HostLookup
+2026-05-18 05:12:04.541 D: Socket Connecting
+2026-05-18 05:12:04.542 D: Socket Connected
+2026-05-18 05:12:04.542 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:12:04.542 V: body: MesPIOnotifyPort
+2026-05-18 05:12:04.793 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:12:04.793 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:12:04.793 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:12:10.791 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 05:15:45.179 D: Socket HostLookup
+2026-05-18 05:15:45.179 D: Socket Connecting
+2026-05-18 05:15:45.183 D: Socket Connected
+2026-05-18 05:15:45.183 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:15:45.183 V: body: MesPIOnotifyPort
+2026-05-18 05:15:45.438 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:15:45.438 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:15:45.438 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:19:27.016 D: Socket HostLookup
+2026-05-18 05:19:27.016 D: Socket Connecting
+2026-05-18 05:19:27.017 D: Socket Connected
+2026-05-18 05:19:27.017 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:19:27.017 V: body: MesPIOnotifyPort
+2026-05-18 05:19:27.287 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:19:27.287 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:19:27.287 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:19:33.285 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 05:50:38.660 D: Socket HostLookup
+2026-05-18 05:50:38.660 D: Socket Connecting
+2026-05-18 05:50:38.662 D: Socket Connected
+2026-05-18 05:50:38.662 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:50:38.662 V: body: MesPIOnotifyPort
+2026-05-18 05:50:38.910 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:50:38.910 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:50:38.910 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:50:44.911 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 05:54:09.886 D: Socket HostLookup
+2026-05-18 05:54:09.886 D: Socket Connecting
+2026-05-18 05:54:09.888 D: Socket Connected
+2026-05-18 05:54:09.888 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:54:09.888 V: body: MesPIOnotifyPort
+2026-05-18 05:54:10.151 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:54:10.151 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:54:10.151 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:57:55.124 D: Socket HostLookup
+2026-05-18 05:57:55.124 D: Socket Connecting
+2026-05-18 05:57:55.126 D: Socket Connected
+2026-05-18 05:57:55.126 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 05:57:55.126 V: body: MesPIOnotifyPort
+2026-05-18 05:57:55.455 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 05:57:55.455 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:57:55.455 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:58:01.468 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 06:01:27.984 D: Socket HostLookup
+2026-05-18 06:01:27.984 D: Socket Connecting
+2026-05-18 06:01:27.986 D: Socket Connected
+2026-05-18 06:01:27.986 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:01:27.986 V: body: MesPIOnotifyPort
+2026-05-18 06:01:28.274 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:01:28.274 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:01:28.274 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:01:34.284 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 06:29:51.912 D: Socket HostLookup
+2026-05-18 06:29:51.912 D: Socket Connecting
+2026-05-18 06:29:51.913 D: Socket Connected
+2026-05-18 06:29:51.913 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:29:51.913 V: body: MesPIOnotifyPort
+2026-05-18 06:29:52.163 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:29:52.163 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:29:52.163 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:29:58.167 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 06:33:34.574 D: Socket HostLookup
+2026-05-18 06:33:34.574 D: Socket Connecting
+2026-05-18 06:33:34.576 D: Socket Connected
+2026-05-18 06:33:34.576 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:33:34.576 V: body: MesPIOnotifyPort
+2026-05-18 06:33:34.819 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:33:34.819 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:33:34.819 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:33:40.831 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 06:37:21.662 D: Socket HostLookup
+2026-05-18 06:37:21.662 D: Socket Connecting
+2026-05-18 06:37:21.663 D: Socket Connected
+2026-05-18 06:37:21.663 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:37:21.663 V: body: MesPIOnotifyPort
+2026-05-18 06:37:21.926 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:37:21.926 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:37:21.926 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:40:56.142 D: Socket HostLookup
+2026-05-18 06:40:56.142 D: Socket Connecting
+2026-05-18 06:40:56.143 D: Socket Connected
+2026-05-18 06:40:56.144 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:40:56.144 V: body: MesPIOnotifyPort
+2026-05-18 06:40:56.383 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:40:56.383 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:40:56.383 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:44:40.869 D: Socket HostLookup
+2026-05-18 06:44:40.869 D: Socket Connecting
+2026-05-18 06:44:40.882 D: Socket Connected
+2026-05-18 06:44:40.882 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:44:40.882 V: body: MesPIOnotifyPort
+2026-05-18 06:44:41.127 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:44:41.127 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:44:41.127 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:44:47.130 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 06:48:16.948 D: Socket HostLookup
+2026-05-18 06:48:16.948 D: Socket Connecting
+2026-05-18 06:48:16.950 D: Socket Connected
+2026-05-18 06:48:16.950 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:48:16.950 V: body: MesPIOnotifyPort
+2026-05-18 06:48:17.240 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:48:17.240 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:48:17.240 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:51:51.606 D: Socket HostLookup
+2026-05-18 06:51:51.606 D: Socket Connecting
+2026-05-18 06:51:51.608 D: Socket Connected
+2026-05-18 06:51:51.608 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:51:51.608 V: body: MesPIOnotifyPort
+2026-05-18 06:51:51.908 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:51:51.908 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:51:51.908 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:51:57.909 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 06:56:24.945 D: Socket HostLookup
+2026-05-18 06:56:24.945 D: Socket Connecting
+2026-05-18 06:56:24.947 D: Socket Connected
+2026-05-18 06:56:24.947 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 06:56:24.947 V: body: MesPIOnotifyPort
+2026-05-18 06:56:25.776 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 06:56:25.776 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:56:25.776 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:56:31.782 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:00:04.456 D: Socket HostLookup
+2026-05-18 07:00:04.456 D: Socket Connecting
+2026-05-18 07:00:04.457 D: Socket Connected
+2026-05-18 07:00:04.457 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:00:04.457 V: body: MesPIOnotifyPort
+2026-05-18 07:00:04.759 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:00:04.759 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:00:04.759 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:03:34.953 D: Socket HostLookup
+2026-05-18 07:03:34.953 D: Socket Connecting
+2026-05-18 07:03:34.954 D: Socket Connected
+2026-05-18 07:03:34.954 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:03:34.954 V: body: MesPIOnotifyPort
+2026-05-18 07:03:35.238 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:03:35.238 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:03:35.238 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:03:41.237 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:07:11.349 D: Socket HostLookup
+2026-05-18 07:07:11.349 D: Socket Connecting
+2026-05-18 07:07:11.351 D: Socket Connected
+2026-05-18 07:07:11.351 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:07:11.351 V: body: MesPIOnotifyPort
+2026-05-18 07:07:11.636 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:07:11.636 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:07:11.636 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:07:17.642 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:11:58.607 D: Socket HostLookup
+2026-05-18 07:11:58.607 D: Socket Connecting
+2026-05-18 07:11:58.618 D: Socket Connected
+2026-05-18 07:11:58.618 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:11:58.618 V: body: MesPIOnotifyPort
+2026-05-18 07:11:59.548 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:11:59.548 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:11:59.548 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:12:05.555 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:15:41.579 D: Socket HostLookup
+2026-05-18 07:15:41.579 D: Socket Connecting
+2026-05-18 07:15:41.580 D: Socket Connected
+2026-05-18 07:15:41.580 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:15:41.580 V: body: MesPIOnotifyPort
+2026-05-18 07:15:41.874 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:15:41.874 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:15:41.874 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:15:47.870 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:19:54.864 D: Socket HostLookup
+2026-05-18 07:19:54.864 D: Socket Connecting
+2026-05-18 07:19:54.866 D: Socket Connected
+2026-05-18 07:19:54.866 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:19:54.866 V: body: MesPIOnotifyPort
+2026-05-18 07:19:55.341 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:19:55.341 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:19:55.341 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:20:01.345 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:23:24.674 D: Socket HostLookup
+2026-05-18 07:23:24.675 D: Socket Connecting
+2026-05-18 07:23:24.676 D: Socket Connected
+2026-05-18 07:23:24.676 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:23:24.676 V: body: MesPIOnotifyPort
+2026-05-18 07:23:24.932 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:23:24.932 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:23:24.932 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:23:30.931 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:30:25.039 D: Socket HostLookup
+2026-05-18 07:30:25.039 D: Socket Connecting
+2026-05-18 07:30:25.041 D: Socket Connected
+2026-05-18 07:30:25.041 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:30:25.041 V: body: MesPIOnotifyPort
+2026-05-18 07:30:25.291 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:30:25.291 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:30:25.291 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:30:31.296 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:34:05.781 D: Socket HostLookup
+2026-05-18 07:34:05.781 D: Socket Connecting
+2026-05-18 07:34:05.792 D: Socket Connected
+2026-05-18 07:34:05.792 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:34:05.792 V: body: MesPIOnotifyPort
+2026-05-18 07:34:06.040 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:34:06.040 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:34:06.041 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:34:12.046 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 07:37:46.236 D: Socket HostLookup
+2026-05-18 07:37:46.236 D: Socket Connecting
+2026-05-18 07:37:46.238 D: Socket Connected
+2026-05-18 07:37:46.238 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:37:46.238 V: body: MesPIOnotifyPort
+2026-05-18 07:37:46.495 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:37:46.495 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:37:46.495 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:41:28.823 D: Socket HostLookup
+2026-05-18 07:41:28.823 D: Socket Connecting
+2026-05-18 07:41:28.824 D: Socket Connected
+2026-05-18 07:41:28.824 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:41:28.824 V: body: MesPIOnotifyPort
+2026-05-18 07:41:29.080 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:41:29.080 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:41:29.080 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:45:13.627 D: Socket HostLookup
+2026-05-18 07:45:13.627 D: Socket Connecting
+2026-05-18 07:45:13.628 D: Socket Connected
+2026-05-18 07:45:13.628 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 07:45:13.628 V: body: MesPIOnotifyPort
+2026-05-18 07:45:13.873 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 07:45:13.873 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:45:13.873 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:45:19.876 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:02:56.066 D: Socket HostLookup
+2026-05-18 08:02:56.066 D: Socket Connecting
+2026-05-18 08:02:56.068 D: Socket Connected
+2026-05-18 08:02:56.068 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:02:56.068 V: body: MesPIOnotifyPort
+2026-05-18 08:02:56.307 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:02:56.307 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:02:56.307 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:03:02.315 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:06:41.013 D: Socket HostLookup
+2026-05-18 08:06:41.013 D: Socket Connecting
+2026-05-18 08:06:41.014 D: Socket Connected
+2026-05-18 08:06:41.014 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:06:41.014 V: body: MesPIOnotifyPort
+2026-05-18 08:06:41.270 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:06:41.270 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:06:41.270 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:10:25.093 D: Socket HostLookup
+2026-05-18 08:10:25.093 D: Socket Connecting
+2026-05-18 08:10:25.094 D: Socket Connected
+2026-05-18 08:10:25.094 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:10:25.094 V: body: MesPIOnotifyPort
+2026-05-18 08:10:25.353 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:10:25.353 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:10:25.353 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:14:10.120 D: Socket HostLookup
+2026-05-18 08:14:10.120 D: Socket Connecting
+2026-05-18 08:14:10.121 D: Socket Connected
+2026-05-18 08:14:10.121 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:14:10.121 V: body: MesPIOnotifyPort
+2026-05-18 08:14:10.386 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:14:10.386 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:14:10.386 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:14:16.401 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:17:45.478 D: Socket HostLookup
+2026-05-18 08:17:45.478 D: Socket Connecting
+2026-05-18 08:17:45.479 D: Socket Connected
+2026-05-18 08:17:45.479 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:17:45.479 V: body: MesPIOnotifyPort
+2026-05-18 08:17:45.760 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:17:45.760 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:17:45.760 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:21:24.162 D: Socket HostLookup
+2026-05-18 08:21:24.162 D: Socket Connecting
+2026-05-18 08:21:24.163 D: Socket Connected
+2026-05-18 08:21:24.163 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:21:24.163 V: body: MesPIOnotifyPort
+2026-05-18 08:21:24.444 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:21:24.444 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:21:24.444 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:21:30.469 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:25:08.764 D: Socket HostLookup
+2026-05-18 08:25:08.764 D: Socket Connecting
+2026-05-18 08:25:08.768 D: Socket Connected
+2026-05-18 08:25:08.768 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:25:08.768 V: body: MesPIOnotifyPort
+2026-05-18 08:25:09.067 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:25:09.067 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:25:09.067 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:28:52.958 D: Socket HostLookup
+2026-05-18 08:28:52.958 D: Socket Connecting
+2026-05-18 08:28:52.970 D: Socket Connected
+2026-05-18 08:28:52.970 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:28:52.970 V: body: MesPIOnotifyPort
+2026-05-18 08:28:53.292 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:28:53.292 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:28:53.292 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:28:59.299 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:32:56.227 D: Socket HostLookup
+2026-05-18 08:32:56.227 D: Socket Connecting
+2026-05-18 08:32:56.228 D: Socket Connected
+2026-05-18 08:32:56.228 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:32:56.228 V: body: MesPIOnotifyPort
+2026-05-18 08:32:56.625 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:32:56.625 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:32:56.625 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:36:29.559 D: Socket HostLookup
+2026-05-18 08:36:29.559 D: Socket Connecting
+2026-05-18 08:36:29.560 D: Socket Connected
+2026-05-18 08:36:29.560 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:36:29.560 V: body: MesPIOnotifyPort
+2026-05-18 08:36:29.835 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:36:29.835 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:36:29.835 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:40:04.753 D: Socket HostLookup
+2026-05-18 08:40:04.753 D: Socket Connecting
+2026-05-18 08:40:04.755 D: Socket Connected
+2026-05-18 08:40:04.755 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:40:04.755 V: body: MesPIOnotifyPort
+2026-05-18 08:40:05.040 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:40:05.040 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:40:05.040 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:40:11.041 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:43:35.166 D: Socket HostLookup
+2026-05-18 08:43:35.166 D: Socket Connecting
+2026-05-18 08:43:35.167 D: Socket Connected
+2026-05-18 08:43:35.167 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:43:35.167 V: body: MesPIOnotifyPort
+2026-05-18 08:43:35.427 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:43:35.427 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:43:35.427 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:48:00.745 D: Socket HostLookup
+2026-05-18 08:48:00.745 D: Socket Connecting
+2026-05-18 08:48:00.747 D: Socket Connected
+2026-05-18 08:48:00.747 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:48:00.747 V: body: MesPIOnotifyPort
+2026-05-18 08:48:01.322 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:48:01.322 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:48:01.322 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:48:07.330 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:51:28.732 D: Socket HostLookup
+2026-05-18 08:51:28.732 D: Socket Connecting
+2026-05-18 08:51:28.735 D: Socket Connected
+2026-05-18 08:51:28.735 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:51:28.735 V: body: MesPIOnotifyPort
+2026-05-18 08:51:29.000 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:51:29.000 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:51:29.000 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:51:35.011 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 08:55:24.624 D: Socket HostLookup
+2026-05-18 08:55:24.624 D: Socket Connecting
+2026-05-18 08:55:24.626 D: Socket Connected
+2026-05-18 08:55:24.626 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:55:24.626 V: body: MesPIOnotifyPort
+2026-05-18 08:55:24.975 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:55:24.975 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:55:24.975 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:59:00.642 D: Socket HostLookup
+2026-05-18 08:59:00.642 D: Socket Connecting
+2026-05-18 08:59:00.644 D: Socket Connected
+2026-05-18 08:59:00.644 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 08:59:00.644 V: body: MesPIOnotifyPort
+2026-05-18 08:59:00.957 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 08:59:00.957 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:59:00.957 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:59:06.964 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:02:32.505 D: Socket HostLookup
+2026-05-18 09:02:32.505 D: Socket Connecting
+2026-05-18 09:02:32.508 D: Socket Connected
+2026-05-18 09:02:32.508 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:02:32.508 V: body: MesPIOnotifyPort
+2026-05-18 09:02:32.779 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:02:32.779 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:02:32.779 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:02:38.784 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:06:00.723 D: Socket HostLookup
+2026-05-18 09:06:00.723 D: Socket Connecting
+2026-05-18 09:06:00.724 D: Socket Connected
+2026-05-18 09:06:00.724 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:06:00.724 V: body: MesPIOnotifyPort
+2026-05-18 09:06:00.984 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:06:00.984 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:06:00.984 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:06:06.994 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:09:31.059 D: Socket HostLookup
+2026-05-18 09:09:31.059 D: Socket Connecting
+2026-05-18 09:09:31.061 D: Socket Connected
+2026-05-18 09:09:31.061 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:09:31.061 V: body: MesPIOnotifyPort
+2026-05-18 09:09:31.318 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:09:31.318 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:09:31.318 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:09:37.324 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:28:57.099 D: Socket HostLookup
+2026-05-18 09:28:57.099 D: Socket Connecting
+2026-05-18 09:28:57.101 D: Socket Connected
+2026-05-18 09:28:57.101 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:28:57.101 V: body: MesPIOnotifyPort
+2026-05-18 09:28:57.359 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:28:57.359 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:28:57.359 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:29:03.370 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:32:29.005 D: Socket HostLookup
+2026-05-18 09:32:29.005 D: Socket Connecting
+2026-05-18 09:32:29.007 D: Socket Connected
+2026-05-18 09:32:29.007 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:32:29.007 V: body: MesPIOnotifyPort
+2026-05-18 09:32:29.291 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:32:29.291 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:32:29.291 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:32:35.296 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:36:02.624 D: Socket HostLookup
+2026-05-18 09:36:02.624 D: Socket Connecting
+2026-05-18 09:36:02.627 D: Socket Connected
+2026-05-18 09:36:02.627 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:36:02.627 V: body: MesPIOnotifyPort
+2026-05-18 09:36:02.918 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:36:02.918 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:36:02.918 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:36:08.926 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:39:32.038 D: Socket HostLookup
+2026-05-18 09:39:32.038 D: Socket Connecting
+2026-05-18 09:39:32.039 D: Socket Connected
+2026-05-18 09:39:32.039 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:39:32.039 V: body: MesPIOnotifyPort
+2026-05-18 09:39:32.308 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:39:32.308 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:39:32.308 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:39:38.319 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:43:11.324 D: Socket HostLookup
+2026-05-18 09:43:11.324 D: Socket Connecting
+2026-05-18 09:43:11.326 D: Socket Connected
+2026-05-18 09:43:11.326 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:43:11.326 V: body: MesPIOnotifyPort
+2026-05-18 09:43:11.654 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:43:11.654 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:43:11.654 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:43:17.657 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 09:57:56.400 D: Socket HostLookup
+2026-05-18 09:57:56.400 D: Socket Connecting
+2026-05-18 09:57:56.401 D: Socket Connected
+2026-05-18 09:57:56.401 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 09:57:56.401 V: body: MesPIOnotifyPort
+2026-05-18 09:57:56.653 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 09:57:56.653 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:57:56.653 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:58:02.669 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:01:31.624 D: Socket HostLookup
+2026-05-18 10:01:31.624 D: Socket Connecting
+2026-05-18 10:01:31.626 D: Socket Connected
+2026-05-18 10:01:31.626 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:01:31.626 V: body: MesPIOnotifyPort
+2026-05-18 10:01:31.930 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:01:31.930 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:01:31.930 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:01:37.932 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:05:03.315 D: Socket HostLookup
+2026-05-18 10:05:03.315 D: Socket Connecting
+2026-05-18 10:05:03.316 D: Socket Connected
+2026-05-18 10:05:03.316 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:05:03.316 V: body: MesPIOnotifyPort
+2026-05-18 10:05:03.578 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:05:03.579 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:05:03.579 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:05:09.580 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:08:36.148 D: Socket HostLookup
+2026-05-18 10:08:36.148 D: Socket Connecting
+2026-05-18 10:08:36.149 D: Socket Connected
+2026-05-18 10:08:36.149 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:08:36.149 V: body: MesPIOnotifyPort
+2026-05-18 10:08:36.418 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:08:36.418 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:08:36.418 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:08:42.427 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:12:19.173 D: Socket HostLookup
+2026-05-18 10:12:19.173 D: Socket Connecting
+2026-05-18 10:12:19.174 D: Socket Connected
+2026-05-18 10:12:19.174 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:12:19.174 V: body: MesPIOnotifyPort
+2026-05-18 10:12:19.493 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:12:19.493 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:12:19.493 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:15:53.950 D: Socket HostLookup
+2026-05-18 10:15:53.950 D: Socket Connecting
+2026-05-18 10:15:53.953 D: Socket Connected
+2026-05-18 10:15:53.953 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:15:53.953 V: body: MesPIOnotifyPort
+2026-05-18 10:15:54.236 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:15:54.236 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:15:54.236 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:16:00.245 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:19:34.859 D: Socket HostLookup
+2026-05-18 10:19:34.859 D: Socket Connecting
+2026-05-18 10:19:34.860 D: Socket Connected
+2026-05-18 10:19:34.860 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:19:34.860 V: body: MesPIOnotifyPort
+2026-05-18 10:19:35.195 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:19:35.195 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:19:35.195 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:19:41.201 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:23:17.021 D: Socket HostLookup
+2026-05-18 10:23:17.021 D: Socket Connecting
+2026-05-18 10:23:17.023 D: Socket Connected
+2026-05-18 10:23:17.023 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:23:17.023 V: body: MesPIOnotifyPort
+2026-05-18 10:23:17.366 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:23:17.367 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:23:17.367 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:26:58.549 D: Socket HostLookup
+2026-05-18 10:26:58.549 D: Socket Connecting
+2026-05-18 10:26:58.560 D: Socket Connected
+2026-05-18 10:26:58.560 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:26:58.560 V: body: MesPIOnotifyPort
+2026-05-18 10:26:58.965 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:26:58.965 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:26:58.965 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:30:34.555 D: Socket HostLookup
+2026-05-18 10:30:34.555 D: Socket Connecting
+2026-05-18 10:30:34.557 D: Socket Connected
+2026-05-18 10:30:34.557 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:30:34.557 V: body: MesPIOnotifyPort
+2026-05-18 10:30:34.851 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:30:34.851 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:30:34.851 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:30:40.848 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 10:58:21.620 D: Socket HostLookup
+2026-05-18 10:58:21.620 D: Socket Connecting
+2026-05-18 10:58:21.632 D: Socket Connected
+2026-05-18 10:58:21.632 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 10:58:21.632 V: body: MesPIOnotifyPort
+2026-05-18 10:58:21.701 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 10:58:21.701 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:58:21.701 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:58:27.703 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:01:57.636 D: Socket HostLookup
+2026-05-18 11:01:57.636 D: Socket Connecting
+2026-05-18 11:01:57.638 D: Socket Connected
+2026-05-18 11:01:57.638 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:01:57.638 V: body: MesPIOnotifyPort
+2026-05-18 11:01:57.703 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:01:57.703 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:01:57.703 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:05:41.611 D: Socket HostLookup
+2026-05-18 11:05:41.611 D: Socket Connecting
+2026-05-18 11:05:41.614 D: Socket Connected
+2026-05-18 11:05:41.614 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:05:41.614 V: body: MesPIOnotifyPort
+2026-05-18 11:05:41.712 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:05:41.712 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:05:41.712 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:05:47.725 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:09:19.684 D: Socket HostLookup
+2026-05-18 11:09:19.684 D: Socket Connecting
+2026-05-18 11:09:19.686 D: Socket Connected
+2026-05-18 11:09:19.686 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:09:19.686 V: body: MesPIOnotifyPort
+2026-05-18 11:09:19.752 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:09:19.752 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:09:19.752 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:09:25.750 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:30:36.560 D: Socket HostLookup
+2026-05-18 11:30:36.560 D: Socket Connecting
+2026-05-18 11:30:36.561 D: Socket Connected
+2026-05-18 11:30:36.561 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:30:36.561 V: body: MesPIOnotifyPort
+2026-05-18 11:30:37.342 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:30:37.342 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:30:37.342 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:34:25.545 D: Socket HostLookup
+2026-05-18 11:34:25.545 D: Socket Connecting
+2026-05-18 11:34:25.546 D: Socket Connected
+2026-05-18 11:34:25.547 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:34:25.547 V: body: MesPIOnotifyPort
+2026-05-18 11:34:25.936 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:34:25.936 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:34:25.936 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:34:31.938 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:38:14.398 D: Socket HostLookup
+2026-05-18 11:38:14.398 D: Socket Connecting
+2026-05-18 11:38:14.401 D: Socket Connected
+2026-05-18 11:38:14.401 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:38:14.401 V: body: MesPIOnotifyPort
+2026-05-18 11:38:14.818 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:38:14.818 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:38:14.818 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:38:20.829 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:42:45.477 D: Socket HostLookup
+2026-05-18 11:42:45.478 D: Socket Connecting
+2026-05-18 11:42:45.479 D: Socket Connected
+2026-05-18 11:42:45.479 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:42:45.479 V: body: MesPIOnotifyPort
+2026-05-18 11:42:46.818 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:42:46.818 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:42:46.818 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:42:52.827 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:47:15.289 D: Socket HostLookup
+2026-05-18 11:47:15.289 D: Socket Connecting
+2026-05-18 11:47:15.301 D: Socket Connected
+2026-05-18 11:47:15.301 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:47:15.301 V: body: MesPIOnotifyPort
+2026-05-18 11:47:16.077 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:47:16.077 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:47:16.077 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:50:49.961 D: Socket HostLookup
+2026-05-18 11:50:49.961 D: Socket Connecting
+2026-05-18 11:50:49.963 D: Socket Connected
+2026-05-18 11:50:49.963 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:50:49.963 V: body: MesPIOnotifyPort
+2026-05-18 11:50:50.261 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:50:50.261 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:50:50.261 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:54:27.245 D: Socket HostLookup
+2026-05-18 11:54:27.245 D: Socket Connecting
+2026-05-18 11:54:27.247 D: Socket Connected
+2026-05-18 11:54:27.247 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:54:27.247 V: body: MesPIOnotifyPort
+2026-05-18 11:54:27.580 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:54:27.580 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:54:27.580 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:54:33.583 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 11:57:59.320 D: Socket HostLookup
+2026-05-18 11:57:59.320 D: Socket Connecting
+2026-05-18 11:57:59.321 D: Socket Connected
+2026-05-18 11:57:59.321 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 11:57:59.321 V: body: MesPIOnotifyPort
+2026-05-18 11:57:59.658 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 11:57:59.658 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:57:59.658 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:58:05.669 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 12:01:37.488 D: Socket HostLookup
+2026-05-18 12:01:37.488 D: Socket Connecting
+2026-05-18 12:01:37.489 D: Socket Connected
+2026-05-18 12:01:37.489 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 12:01:37.489 V: body: MesPIOnotifyPort
+2026-05-18 12:01:37.896 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 12:01:37.896 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:01:37.896 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:05:16.402 D: Socket HostLookup
+2026-05-18 12:05:16.402 D: Socket Connecting
+2026-05-18 12:05:16.404 D: Socket Connected
+2026-05-18 12:05:16.404 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 12:05:16.404 V: body: MesPIOnotifyPort
+2026-05-18 12:05:16.651 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 12:05:16.651 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:05:16.651 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:05:22.655 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 12:08:52.780 D: Socket HostLookup
+2026-05-18 12:08:52.780 D: Socket Connecting
+2026-05-18 12:08:52.784 D: Socket Connected
+2026-05-18 12:08:52.784 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 12:08:52.784 V: body: MesPIOnotifyPort
+2026-05-18 12:08:53.067 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 12:08:53.067 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:08:53.067 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:12:30.424 D: Socket HostLookup
+2026-05-18 12:12:30.424 D: Socket Connecting
+2026-05-18 12:12:30.425 D: Socket Connected
+2026-05-18 12:12:30.425 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 12:12:30.425 V: body: MesPIOnotifyPort
+2026-05-18 12:12:30.699 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 12:12:30.699 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:12:30.699 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:12:36.695 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 12:59:37.838 D: Socket HostLookup
+2026-05-18 12:59:37.838 D: Socket Connecting
+2026-05-18 12:59:37.840 D: Socket Connected
+2026-05-18 12:59:37.840 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 12:59:37.840 V: body: MesPIOnotifyPort
+2026-05-18 12:59:38.177 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 12:59:38.177 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:59:38.177 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:03:22.735 D: Socket HostLookup
+2026-05-18 13:03:22.735 D: Socket Connecting
+2026-05-18 13:03:22.736 D: Socket Connected
+2026-05-18 13:03:22.736 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 13:03:22.736 V: body: MesPIOnotifyPort
+2026-05-18 13:03:23.117 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 13:03:23.117 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:03:23.117 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:06:58.168 D: Socket HostLookup
+2026-05-18 13:06:58.168 D: Socket Connecting
+2026-05-18 13:06:58.169 D: Socket Connected
+2026-05-18 13:06:58.169 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 13:06:58.169 V: body: MesPIOnotifyPort
+2026-05-18 13:06:58.478 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 13:06:58.478 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:06:58.478 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:07:04.480 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 13:10:41.720 D: Socket HostLookup
+2026-05-18 13:10:41.720 D: Socket Connecting
+2026-05-18 13:10:41.721 D: Socket Connected
+2026-05-18 13:10:41.721 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 13:10:41.721 V: body: MesPIOnotifyPort
+2026-05-18 13:10:42.107 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 13:10:42.107 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:10:42.107 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:10:48.107 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0
+2026-05-18 13:14:22.609 D: Socket HostLookup
+2026-05-18 13:14:22.609 D: Socket Connecting
+2026-05-18 13:14:22.611 D: Socket Connected
+2026-05-18 13:14:22.611 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 13:14:22.611 V: body: MesPIOnotifyPort
+2026-05-18 13:14:22.960 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 13:14:22.960 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:14:22.960 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:27:06.004 D: Socket HostLookup
+2026-05-18 13:27:06.004 D: Socket Connecting
+2026-05-18 13:27:06.005 D: Socket Connected
+2026-05-18 13:27:06.005 I: send: MesPROXYinit, pid=0, type=Notify, sender=DATACNV, size=17
+2026-05-18 13:27:06.005 V: body: MesPIOnotifyPort
+2026-05-18 13:27:06.090 I: recv: MesPROXYinit, pid=0, type=Response, send=DATACNV, size=0
+2026-05-18 13:27:06.090 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 13:27:06.090 V: body: 15 08 05 09 0B 03 1A 0C 1C 1D 1B
+2026-05-18 13:27:12.101 I: send: MesUPLOADreq, pid=0, type=Notify, sender=DATACNV, size=0

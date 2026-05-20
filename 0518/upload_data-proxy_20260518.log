@@ -1,0 +1,891 @@
+2026-05-18 00:08:55.127 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:08:55.128 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:09:01.396 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:09:01.397 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:09:01.397 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:12:26.684 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:12:26.684 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:12:32.961 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:12:32.964 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:12:32.965 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:15:57.514 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:15:57.515 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:16:03.792 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:16:03.796 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:16:03.796 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:19:34.708 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:19:34.708 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:19:41.028 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:19:41.030 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:19:41.031 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:24:18.313 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:24:18.313 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:24:25.436 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:24:25.443 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:24:25.443 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:34:33.731 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:34:33.732 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:34:40.013 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:34:40.016 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:34:40.017 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:38:13.106 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:38:13.106 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:38:19.417 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:38:19.424 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:38:19.425 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:41:47.735 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:41:47.737 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:41:54.022 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:41:54.024 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:41:54.025 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:44:29.337 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:44:29.338 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:44:35.562 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:44:35.565 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:44:35.565 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:47:08.562 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:47:08.562 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:47:14.776 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:47:14.780 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:47:14.780 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:49:48.860 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:49:48.861 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:49:55.091 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:49:55.093 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:49:55.094 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:52:27.103 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:52:27.104 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:52:33.329 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:52:33.331 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:52:33.332 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 00:58:33.398 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 00:58:33.398 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 00:58:39.698 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 00:58:39.702 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 00:58:39.703 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:02:16.152 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:02:16.152 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:02:22.436 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:02:22.439 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:02:22.439 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:05:53.156 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:05:53.157 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:05:59.421 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:05:59.431 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:05:59.431 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:09:35.716 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:09:35.716 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:09:41.968 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:09:41.971 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:09:41.971 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:13:21.406 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:13:21.406 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:13:27.658 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:13:27.660 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:13:27.661 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:16:55.610 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:16:55.610 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:17:01.864 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:17:01.867 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:17:01.867 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:20:35.695 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:20:35.695 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:20:41.936 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:20:41.938 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:20:41.938 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:24:14.862 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:24:14.862 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:24:21.114 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:24:21.118 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:24:21.119 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:27:57.930 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:27:57.930 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:28:04.165 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:28:04.169 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:28:04.169 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:31:49.222 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:31:49.222 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:31:55.651 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:31:55.653 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:31:55.653 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:35:37.572 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:35:37.572 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:35:43.881 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:35:43.883 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:35:43.884 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:45:59.719 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:45:59.719 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:46:06.341 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:46:06.351 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:46:06.351 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:50:54.163 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:50:54.163 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:51:00.888 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:51:00.909 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:51:00.909 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 01:55:36.950 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 01:55:36.951 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 01:55:43.528 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 01:55:43.532 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 01:55:43.532 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:00:26.230 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:00:26.231 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:00:32.927 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:00:32.937 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:00:32.937 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:05:15.518 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:05:15.518 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:05:22.160 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:05:22.166 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:05:22.166 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:08:44.442 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:08:44.442 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:08:50.917 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:08:50.920 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:08:50.920 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:12:12.360 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:12:12.360 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:12:18.877 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:12:18.887 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:12:18.887 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:15:44.671 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:15:44.672 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:15:52.388 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:15:52.407 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:15:52.407 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:19:14.615 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:19:14.615 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:19:21.552 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:19:21.563 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:19:21.563 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:22:41.428 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:22:41.428 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:22:47.972 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:22:47.977 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:22:47.978 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:26:09.191 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:26:09.191 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:26:15.455 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:26:15.460 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:26:15.460 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:29:44.353 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:29:44.353 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:29:50.656 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:29:50.659 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:29:50.659 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:33:17.598 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:33:17.598 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:33:23.874 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:33:23.881 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:33:23.881 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:36:43.922 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:36:43.923 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:36:50.225 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:36:50.225 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:36:50.225 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:40:19.474 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:40:19.475 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:40:25.777 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:40:25.781 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:40:25.781 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:44:02.500 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:44:02.500 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:44:08.774 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:44:08.775 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:44:08.775 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:47:46.004 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:47:46.004 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:47:52.272 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:47:52.274 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:47:52.274 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:51:33.074 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:51:33.075 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:51:39.331 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:51:39.333 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:51:39.333 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 02:56:17.704 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 02:56:17.704 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 02:56:24.412 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 02:56:24.425 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 02:56:24.425 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:08:05.783 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:08:05.783 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:08:12.057 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:08:12.060 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:08:12.061 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:11:39.813 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:11:39.814 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:11:46.110 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:11:46.119 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:11:46.119 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:15:22.123 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:15:22.123 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:15:28.424 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:15:28.426 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:15:28.426 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:18:58.738 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:18:58.738 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:19:05.078 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:19:05.082 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:19:05.082 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:22:31.340 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:22:31.340 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:22:37.605 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:22:37.607 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:22:37.607 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:32:18.066 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:32:18.066 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:32:24.319 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:32:24.323 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:32:24.324 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:34:54.477 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:34:54.478 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:35:00.696 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:35:00.698 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:35:00.698 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:37:37.682 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:37:37.682 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:37:43.934 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:37:43.943 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:37:43.943 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:40:15.583 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:40:15.583 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:40:21.936 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:40:21.938 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:40:21.938 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:44:45.379 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:44:45.379 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:44:51.925 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:44:51.927 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:44:51.927 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:48:17.241 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:48:17.244 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:48:23.523 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:48:23.526 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:48:23.526 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:52:20.078 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:52:20.078 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:52:26.469 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:52:26.474 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:52:26.474 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:56:03.654 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:56:03.654 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:56:10.029 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:56:10.034 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:56:10.034 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 03:59:39.830 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 03:59:39.830 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 03:59:46.135 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 03:59:46.139 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 03:59:46.139 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:03:11.500 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:03:11.500 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:03:17.767 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:03:17.769 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:03:17.769 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:06:45.013 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:06:45.013 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:06:51.270 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:06:51.273 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:06:51.274 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:10:17.491 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:10:17.492 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:10:23.789 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:10:23.792 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:10:23.792 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:14:03.084 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:14:03.084 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:14:09.397 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:14:09.400 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:14:09.400 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:17:38.054 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:17:38.054 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:17:44.333 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:17:44.337 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:17:44.337 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:21:55.149 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:21:55.149 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:22:01.714 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:22:01.718 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:22:01.718 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:25:41.656 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:25:41.657 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:25:48.002 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:25:48.014 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:25:48.014 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:30:16.068 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:30:16.068 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:30:22.905 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:30:22.909 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:30:22.909 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:33:46.431 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:33:46.431 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:33:52.701 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:33:52.706 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:33:52.706 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:37:24.159 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:37:24.160 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:37:30.432 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:37:30.434 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:37:30.434 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:40:52.644 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:40:52.644 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:40:58.925 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:40:58.929 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:40:58.929 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:44:32.425 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:44:32.425 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:44:38.730 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:44:38.731 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:44:38.731 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 04:48:08.896 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 04:48:08.896 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 04:48:15.164 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 04:48:15.168 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 04:48:15.168 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:08:26.345 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:08:26.345 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:08:32.617 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:08:32.626 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:08:32.626 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:12:04.551 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:12:04.551 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:12:10.795 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:12:10.798 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:12:10.798 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:15:45.189 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:15:45.189 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:15:51.449 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:15:51.451 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:15:51.451 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:19:27.023 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:19:27.023 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:19:33.290 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:19:33.293 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:19:33.293 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:50:38.680 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:50:38.682 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:50:44.915 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:50:44.918 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:50:44.918 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:54:09.894 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:54:09.894 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:54:16.155 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:54:16.158 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:54:16.159 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 05:57:55.127 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 05:57:55.127 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 05:58:01.474 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 05:58:01.477 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 05:58:01.478 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:01:27.992 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:01:27.992 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:01:34.288 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:01:34.291 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:01:34.291 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:29:51.918 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:29:51.919 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:29:58.172 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:29:58.175 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:29:58.175 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:33:34.579 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:33:34.579 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:33:40.836 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:33:40.839 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:33:40.839 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:37:21.667 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:37:21.667 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:37:27.944 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:37:27.948 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:37:27.949 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:40:56.148 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:40:56.148 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:41:02.395 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:41:02.398 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:41:02.398 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:44:40.885 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:44:40.885 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:44:47.135 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:44:47.144 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:44:47.145 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:48:16.952 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:48:16.952 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:48:23.261 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:48:23.267 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:48:23.267 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:51:51.625 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:51:51.625 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:51:57.914 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:51:57.917 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:51:57.917 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 06:56:24.953 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 06:56:24.953 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 06:56:31.826 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 06:56:31.826 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 06:56:31.827 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:00:04.464 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:00:04.465 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:00:10.768 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:00:10.772 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:00:10.772 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:03:34.960 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:03:34.960 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:03:41.243 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:03:41.247 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:03:41.247 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:07:11.369 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:07:11.370 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:07:17.647 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:07:17.650 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:07:17.650 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:11:58.626 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:11:58.626 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:12:05.559 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:12:05.568 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:12:05.569 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:15:41.589 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:15:41.589 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:15:47.875 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:15:47.879 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:15:47.879 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:19:54.870 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:19:54.870 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:20:01.350 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:20:01.353 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:20:01.354 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:23:24.684 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:23:24.684 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:23:30.936 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:23:30.938 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:23:30.938 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:30:25.049 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:30:25.049 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:30:31.302 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:30:31.305 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:30:31.306 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:34:05.795 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:34:05.795 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:34:12.051 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:34:12.053 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:34:12.053 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:37:46.244 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:37:46.244 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:37:52.499 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:37:52.503 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:37:52.504 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:41:28.826 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:41:28.826 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:41:35.096 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:41:35.099 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:41:35.099 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 07:45:13.631 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 07:45:13.632 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 07:45:19.881 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 07:45:19.883 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 07:45:19.883 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:02:56.072 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:02:56.072 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:03:02.319 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:03:02.322 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:03:02.323 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:06:41.021 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:06:41.021 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:06:47.277 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:06:47.278 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:06:47.278 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:10:25.096 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:10:25.096 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:10:31.355 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:10:31.358 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:10:31.358 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:14:10.124 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:14:10.125 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:14:16.413 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:14:16.422 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:14:16.422 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:17:45.492 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:17:45.492 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:17:51.767 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:17:51.770 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:17:51.770 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:21:24.175 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:21:24.176 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:21:30.474 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:21:30.477 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:21:30.478 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:25:08.772 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:25:08.772 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:25:15.068 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:25:15.072 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:25:15.072 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:28:52.973 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:28:52.973 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:28:59.303 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:28:59.308 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:28:59.308 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:32:56.232 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:32:56.232 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:33:02.634 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:33:02.642 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:33:02.642 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:36:29.565 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:36:29.565 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:36:35.847 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:36:35.851 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:36:35.851 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:40:04.765 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:40:04.765 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:40:11.047 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:40:11.049 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:40:11.049 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:43:35.177 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:43:35.177 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:43:41.432 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:43:41.433 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:43:41.433 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:48:00.751 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:48:00.752 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:48:07.356 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:48:07.380 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:48:07.380 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:51:28.755 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:51:28.755 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:51:35.015 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:51:35.019 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:51:35.019 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:55:24.629 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:55:24.630 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:55:30.985 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:55:30.987 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:55:30.987 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 08:59:00.646 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 08:59:00.646 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 08:59:06.973 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 08:59:06.975 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 08:59:06.975 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:02:32.516 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:02:32.516 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:02:38.788 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:02:38.790 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:02:38.790 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:06:00.736 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:06:00.737 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:06:07.000 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:06:07.004 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:06:07.005 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:09:31.063 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:09:31.063 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:09:37.330 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:09:37.332 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:09:37.332 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:28:57.111 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:28:57.111 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:29:03.375 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:29:03.378 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:29:03.379 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:32:29.011 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:32:29.011 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:32:35.301 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:32:35.306 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:32:35.306 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:36:02.634 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:36:02.634 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:36:08.931 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:36:08.936 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:36:08.936 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:39:32.043 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:39:32.043 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:39:38.325 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:39:38.329 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:39:38.329 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:43:11.332 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:43:11.333 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:43:17.662 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:43:17.665 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:43:17.665 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 09:57:56.407 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 09:57:56.407 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 09:58:02.673 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 09:58:02.676 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 09:58:02.678 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:01:31.627 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:01:31.627 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:01:37.936 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:01:37.938 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:01:37.939 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:05:03.330 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:05:03.330 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:05:09.585 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:05:09.588 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:05:09.592 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:08:36.151 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:08:36.151 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:08:42.433 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:08:42.434 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:08:42.434 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:12:19.175 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:12:19.176 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:12:25.493 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:12:25.496 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:12:25.496 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:15:53.958 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:15:53.958 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:16:00.250 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:16:00.254 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:16:00.254 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:19:34.880 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:19:34.880 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:19:41.205 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:19:41.207 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:19:41.208 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:23:17.026 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:23:17.027 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:23:23.387 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:23:23.390 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:23:23.390 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:26:58.562 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:26:58.562 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:27:04.985 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:27:04.992 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:27:04.993 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:30:34.560 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:30:34.560 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:30:40.854 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:30:40.858 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:30:40.858 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 10:58:21.633 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 10:58:21.633 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 10:58:27.708 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 10:58:27.709 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 10:58:27.710 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:01:57.641 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:01:57.642 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:02:03.704 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:02:03.707 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:02:03.708 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:05:41.616 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:05:41.616 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:05:47.731 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:05:47.735 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:05:47.736 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:09:19.691 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:09:19.691 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:09:25.755 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:09:25.759 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:09:25.759 V: body: 08 15 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:10:24.265 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 11:10:24.265 V: body: 08 15 05 06 09 0B 1A 0C 04 1C 1D
+2026-05-18 11:10:24.406 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=10
+2026-05-18 11:10:24.406 V: body: 15 05 06 09 0B 1A 0C 04 1C 1D
+2026-05-18 11:10:24.570 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=9
+2026-05-18 11:10:24.570 V: body: 15 05 06 0B 1A 0C 04 1C 1D
+2026-05-18 11:10:24.819 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=8
+2026-05-18 11:10:24.819 V: body: 15 05 06 0B 1A 04 1C 1D
+2026-05-18 11:10:25.015 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=7
+2026-05-18 11:10:25.015 V: body: 15 05 06 1A 04 1C 1D
+2026-05-18 11:10:25.133 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=6
+2026-05-18 11:10:25.133 V: body: 15 05 1A 04 1C 1D
+2026-05-18 11:10:25.197 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=5
+2026-05-18 11:10:25.197 V: body: 15 05 1A 1C 1D
+2026-05-18 11:10:25.257 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=4
+2026-05-18 11:10:25.257 V: body: 15 1A 1C 1D
+2026-05-18 11:10:25.319 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=3
+2026-05-18 11:10:25.320 V: body: 1A 1C 1D
+2026-05-18 11:11:23.027 D: Socket HostLookup
+2026-05-18 11:11:23.027 D: Socket Connecting
+2026-05-18 11:11:23.034 D: Socket Connected
+2026-05-18 11:11:23.034 I: send: MesPROXYinit, pid=0, type=Notify, sender=UPLOAD_DATA, size=25
+2026-05-18 11:11:23.034 V: body: MesUPL*
+2026-05-18 11:11:23.035 I: recv: MesPROXYinit, pid=0, type=Response, send=UPLOAD_DATA, size=0
+2026-05-18 11:11:23.036 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 11:11:23.036 V: body: 15 05 08 06 09 0B 03 1A 0C 04 1C
+2026-05-18 11:11:23.140 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:11:23.140 V: body: 15 05 08 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:15:38.645 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 11:15:38.645 V: body: 15 05 08 06 09 0B 1A 0C 04 1C 1D
+2026-05-18 11:15:38.767 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=10
+2026-05-18 11:15:38.768 V: body: 15 05 06 09 0B 1A 0C 04 1C 1D
+2026-05-18 11:15:38.900 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=9
+2026-05-18 11:15:38.900 V: body: 15 05 06 0B 1A 0C 04 1C 1D
+2026-05-18 11:15:39.137 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=8
+2026-05-18 11:15:39.137 V: body: 15 05 06 0B 1A 04 1C 1D
+2026-05-18 11:15:39.318 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=7
+2026-05-18 11:15:39.319 V: body: 15 05 06 1A 04 1C 1D
+2026-05-18 11:15:39.439 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=6
+2026-05-18 11:15:39.439 V: body: 15 05 1A 04 1C 1D
+2026-05-18 11:15:39.493 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=5
+2026-05-18 11:15:39.493 V: body: 15 05 1A 1C 1D
+2026-05-18 11:15:39.548 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=4
+2026-05-18 11:15:39.548 V: body: 15 1A 1C 1D
+2026-05-18 11:15:39.611 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=3
+2026-05-18 11:15:39.611 V: body: 1A 1C 1D
+2026-05-18 11:19:34.580 D: Socket HostLookup
+2026-05-18 11:19:34.580 D: Socket Connecting
+2026-05-18 11:19:34.585 D: Socket Connected
+2026-05-18 11:19:34.585 I: send: MesPROXYinit, pid=0, type=Notify, sender=UPLOAD_DATA, size=25
+2026-05-18 11:19:34.585 V: body: MesUPL*
+2026-05-18 11:19:34.586 I: recv: MesPROXYinit, pid=0, type=Response, send=UPLOAD_DATA, size=0
+2026-05-18 11:19:34.587 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 11:19:34.587 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C
+2026-05-18 11:19:34.704 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:19:34.704 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:30:36.564 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:30:36.564 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:30:43.368 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:30:43.405 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:30:43.405 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:31:11.780 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:31:11.780 V: body: 00 02 00 01 01
+2026-05-18 11:34:25.548 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:34:25.548 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:34:31.944 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:34:31.946 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:34:31.946 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:34:35.489 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:34:35.489 V: body: 00 02 00 01 01
+2026-05-18 11:38:14.402 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:38:14.402 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:38:20.834 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:38:20.840 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:38:20.840 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:38:25.389 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:38:25.389 V: body: 00 02 00 01 01
+2026-05-18 11:42:45.480 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:42:45.480 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:42:52.832 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:42:52.858 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:42:52.860 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:43:14.472 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:43:14.472 V: body: 00 02 00 01 01
+2026-05-18 11:45:51.167 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 11:45:51.167 V: body: 00 01 00 01 01
+2026-05-18 11:47:15.301 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:47:15.301 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:47:22.089 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:47:22.096 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:47:22.096 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:47:22.511 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 11:47:22.511 V: body: 00 01 00 01 01
+2026-05-18 11:47:40.637 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:47:40.637 V: body: 00 02 00 01 01
+2026-05-18 11:50:49.981 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:50:49.981 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:50:56.263 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:50:56.267 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:50:56.267 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:50:56.513 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 11:50:56.513 V: body: 00 01 00 01 01
+2026-05-18 11:50:58.374 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:50:58.374 V: body: 00 02 00 01 01
+2026-05-18 11:54:27.248 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:54:27.248 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:54:33.588 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:54:33.590 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:54:33.591 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:54:33.887 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 11:54:33.888 V: body: 00 01 00 01 01
+2026-05-18 11:54:35.995 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:54:35.995 V: body: 00 02 00 01 01
+2026-05-18 11:57:59.322 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 11:57:59.322 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 11:58:05.674 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 11:58:05.680 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 11:58:05.680 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 11:58:05.998 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 11:58:05.998 V: body: 00 01 00 01 01
+2026-05-18 11:58:08.221 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 11:58:08.221 V: body: 00 02 00 01 01
+2026-05-18 12:01:37.490 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:01:37.490 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:01:43.900 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 12:01:43.904 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 12:01:43.904 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 12:01:44.273 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 12:01:44.273 V: body: 00 01 00 01 01
+2026-05-18 12:01:46.873 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 12:01:46.873 V: body: 00 02 00 01 01
+2026-05-18 12:05:16.405 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:05:16.405 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:05:22.660 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 12:05:22.665 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 12:05:22.665 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 12:05:23.071 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 12:05:23.071 V: body: 00 01 00 01 01
+2026-05-18 12:05:23.639 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 12:05:23.639 V: body: 00 02 00 01 01
+2026-05-18 12:08:52.788 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:08:52.789 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:08:59.084 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 12:08:59.089 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 12:08:59.089 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 12:08:59.433 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 12:08:59.433 V: body: 00 01 00 01 01
+2026-05-18 12:08:59.999 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 12:08:59.999 V: body: 00 02 00 01 01
+2026-05-18 12:12:30.425 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:12:30.425 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:12:36.701 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 12:12:36.704 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 12:12:36.705 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 12:12:37.003 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 12:12:37.003 V: body: 00 01 00 01 01
+2026-05-18 12:12:37.861 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 12:12:37.861 V: body: 00 02 00 01 01
+2026-05-18 12:59:37.842 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 12:59:37.842 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 12:59:44.189 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 12:59:44.192 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 12:59:44.193 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 12:59:44.930 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 12:59:44.930 V: body: 00 01 00 01 01
+2026-05-18 12:59:48.596 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 12:59:48.596 V: body: 00 02 00 01 01
+2026-05-18 13:03:22.737 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:03:22.737 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:03:29.126 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 13:03:29.128 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 13:03:29.128 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 13:03:29.411 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 13:03:29.411 V: body: 00 01 00 01 01
+2026-05-18 13:03:32.428 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 13:03:32.428 V: body: 00 02 00 01 01
+2026-05-18 13:06:58.171 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:06:58.171 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:07:04.488 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 13:07:04.495 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 13:07:04.495 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 13:07:04.859 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 13:07:04.859 V: body: 00 01 00 01 01
+2026-05-18 13:07:07.101 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 13:07:07.101 V: body: 00 02 00 01 01
+2026-05-18 13:10:41.723 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:10:41.723 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:10:48.111 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 13:10:48.117 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 13:10:48.117 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 13:10:48.379 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 13:10:48.379 V: body: 00 01 00 01 01
+2026-05-18 13:10:53.664 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 13:10:53.664 V: body: 00 02 00 01 01
+2026-05-18 13:14:22.612 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=13
+2026-05-18 13:14:22.612 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D 1B
+2026-05-18 13:14:28.961 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 13:14:28.969 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=12
+2026-05-18 13:14:28.969 V: body: 15 08 05 06 09 0B 03 1A 0C 04 1C 1D
+2026-05-18 13:14:29.477 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 13:14:29.477 V: body: 00 01 00 01 01
+2026-05-18 13:14:34.276 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 13:14:34.276 V: body: 00 02 00 01 01
+2026-05-18 13:25:27.941 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=10
+2026-05-18 13:25:27.941 V: body: 15 08 05 09 0B 03 1A 0C 1C 1D
+2026-05-18 13:25:27.942 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 13:25:27.942 V: body: 15 08 05 06 09 0B 03 1A 0C 1C 1D
+2026-05-18 13:27:06.006 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=11
+2026-05-18 13:27:06.007 V: body: 15 08 05 09 0B 03 1A 0C 1C 1D 1B
+2026-05-18 13:27:12.106 I: recv: MesUPLOADreq, pid=0, type=Notify, send=DATACNV, size=0
+2026-05-18 13:27:12.112 I: recv: MesPROXYclients, pid=0, type=Notify, send=PROXY, size=10
+2026-05-18 13:27:12.112 V: body: 15 08 05 09 0B 03 1A 0C 1C 1D
+2026-05-18 13:27:12.620 I: send: MesUPLnotifyStatus, pid=0, type=Notify, sender=UPLOAD_DATA, size=5
+2026-05-18 13:27:12.620 V: body: 00 01 00 01 01
+2026-05-18 13:27:13.322 I: recv: MesUPLnotifyStatus, pid=0, type=Notify, send=UPLOAD_IMAGE, size=5
+2026-05-18 13:27:13.322 V: body: 00 02 00 01 01
